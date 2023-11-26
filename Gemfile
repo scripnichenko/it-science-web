@@ -43,7 +43,7 @@ gem 'bundler', '~> 2.3.7'
 gem 'faraday-retry'
 gem 'backports', '~> 3.23'
 gem 'kramdown'
-gem 'puma'
+# gem 'puma'
 
 group :jekyll_plugins do
     gem 'jekyll-feed', '~> 0.17.0'
